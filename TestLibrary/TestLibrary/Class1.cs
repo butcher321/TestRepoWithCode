@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestLibrary
 {
+    //Class1 class
     public class Class1
     {
     }
