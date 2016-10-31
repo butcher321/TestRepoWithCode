@@ -1,0 +1,5 @@
+C:\RepoTest\TestLibrary\TestLibrary\bin\Debug\TestLibrary.dll
+C:\RepoTest\TestLibrary\TestLibrary\bin\Debug\TestLibrary.pdb
+C:\RepoTest\TestLibrary\TestLibrary\obj\Debug\TestLibrary.csprojResolveAssemblyReference.cache
+C:\RepoTest\TestLibrary\TestLibrary\obj\Debug\TestLibrary.dll
+C:\RepoTest\TestLibrary\TestLibrary\obj\Debug\TestLibrary.pdb
